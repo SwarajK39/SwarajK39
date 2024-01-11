@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/18nC9bNVtl4_7vNIPlMvIkPjgWDDU7XzY/view?usp=sharing)
+[![MasterHead](https://github.com/SwarajK39/E-Learning-Kida/blob/main/Developer.png?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Swaraj Kakade</h1>

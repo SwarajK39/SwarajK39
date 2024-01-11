@@ -1,4 +1,5 @@
-[![MasterHead](https://lh3.googleusercontent.com/VQiRvifDYzNPHJ6t9wQ-GoHn6daoKBeAFm8mHmRhb075juxaH_q4B_HZb-fQCTn-fIHwylS3WJmRdkvk2SIaA_-MihO72ypk_DprZXGzkQ)
+[![MasterHead](https://drive.google.com/file/d/18nC9bNVtl4_7vNIPlMvIkPjgWDDU7XzY/view?usp=sharing)
+
 
 <h1 align="center">Hi 👋, I'm Swaraj Kakade</h1>
 <h3 align="center">A passionate Python developer from India</h3>
